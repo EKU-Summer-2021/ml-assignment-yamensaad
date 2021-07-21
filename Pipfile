@@ -9,6 +9,8 @@ coverage = '*'
 
 [packages]
 numpy = '*'
-
+pydotplus = "*"
+matplotlib = "*"
+pandas = "*"
 [requires]
 python_version = "3.8"
