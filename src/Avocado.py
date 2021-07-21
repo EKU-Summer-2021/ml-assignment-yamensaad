@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 import matplotlib.image as pltimg
 
 
-df = pandas.read_csv("avocado.csv")
-print(df)
-
-d = {'': 0  , '' :  ,  '' :}
-
+"""
+create csv reading method
+"""
+df = pandas.read_csv( "avocado.csv" )
+print( df )
 
